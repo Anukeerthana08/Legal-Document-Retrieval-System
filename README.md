@@ -1,4 +1,4 @@
-# Legal-Document-Retrieval-System
+# AI-based Legal-Document-Retrieval-System 
 AI-based legal document search system using SBERT semantic embeddings and Legal-BERT NER to retrieve relevant court judgments with high accuracy and fast query response.
 
 This project is an AI-powered Legal Document Retrieval System designed to help users efficiently search and explore large collections of court judgments. Instead of relying on keyword-based search, the system uses semantic understanding and legal entity recognition to retrieve the most relevant legal documents based on the meaning of a query.
